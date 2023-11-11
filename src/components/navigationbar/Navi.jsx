@@ -41,7 +41,7 @@ function Navi() {
               </NavDropdown.Item>
             </NavDropdown>
 
-            <NavLink to="/Login" className='nav-link'>Login</NavLink>
+            <NavLink to="/SignInSignUp" className='nav-link'>Login</NavLink>
           
           </Nav>
         </Navbar.Collapse>
